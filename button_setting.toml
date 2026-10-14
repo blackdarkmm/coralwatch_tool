@@ -1,0 +1,8 @@
+[BR]
+output = "Branching"
+[BO]
+output = "Boulder"
+[PL]
+output = "Plate"
+[SO]
+output = "Soft"

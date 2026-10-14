@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+truevenv/
+*.spec
+pyinstaller_commend.txt
