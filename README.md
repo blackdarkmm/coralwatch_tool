@@ -49,6 +49,7 @@ pywin32-ctypes==0.2.3
 setuptools==84.0.0
 xlwings==0.37.4
 ```
+</details>
 
 **執行主程式：**
 ```bash
